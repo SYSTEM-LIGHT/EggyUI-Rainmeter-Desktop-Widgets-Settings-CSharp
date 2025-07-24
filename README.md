@@ -1,15 +1,15 @@
 ﻿# EggyUI-Rainmeter-Desktop-Widgets-Settings
 
 ## 🎮 项目简介
-**EggyUI-Rainmeter-Desktop-Widgets-Settings** 是 **EggyUI** 主题包的核心组件之一，专为管理其配套的 Rainmeter 桌面小组件而设计。
+**EggyUI-Rainmeter-Desktop-Widgets-Settings** 是 **EggyUI** 主题包的核心组件之一，专为管理其配套的 [Rainmeter](https://www.rainmeter.net/) 桌面小组件而设计。
 
 ## 🌟 关于 EggyUI
-*   **开发者：** 由 **BSOD-MEMZ** 及其团队开发。
+*   **开发者：** 由 [**BSOD-MEMZ**](https://space.bilibili.com/1975308950) 及其团队开发。
 *   **定位：** 一个功能强大的 Windows 系统个性化主题包。
 *   **风格灵感：** 深度复刻热门游戏《蛋仔派对》的视觉风格与 UI 元素，为 Windows 桌面带来充满活力和趣味的游戏化界面体验。
 
 ## ⚙️ EggyUI 3.5 的重大革新
-*   **全新安装模式：** 本次发布的 **Eggy UI 3.5** 采用了与以往版本截然不同的安装方式。
+*   **全新安装模式：** 本次发布的 [**Eggy UI 3.5**](https://www.bilibili.com/video/BV1kbgGz7Em1) 采用了与以往版本截然不同的安装方式。
 *   **系统级部署：** 基于 **全新 Windows 系统安装 + 无人值守自动部署** 技术。
 *   **核心优势：** 此革命性的安装方案**彻底根除**了旧版中困扰用户的部分兼容性问题（例如：安装后无法配置网络连接等关键功能故障），显著提升了安装成功率和系统稳定性。
 
