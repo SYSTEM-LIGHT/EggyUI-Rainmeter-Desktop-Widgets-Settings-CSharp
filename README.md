@@ -2,6 +2,7 @@
 
 ## 🎮 项目简介
 **EggyUI-Rainmeter-Desktop-Widgets-Settings** 是 **EggyUI** 主题包的核心组件之一，专为管理其配套的 [Rainmeter](https://www.rainmeter.net/) 桌面小组件而设计。
+
 **作者：** [冷落的小情绪](https://space.bilibili.com/3546772339165612)
 
 ## 🌟 关于 EggyUI
