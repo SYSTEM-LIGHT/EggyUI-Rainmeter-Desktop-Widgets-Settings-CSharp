@@ -1,4 +1,5 @@
-﻿﻿# EggyUI-Rainmeter-Desktop-Widgets-Settings
+﻿# EggyUI-Rainmeter-Desktop-Widgets-Settings
+[English Version](README_en-us.md) | [中文版本](README.md)
 
 ## 🎮 项目简介
 **EggyUI-Rainmeter-Desktop-Widgets-Settings** 是 **EggyUI** 主题包的核心组件之一，专为管理其配套的 [Rainmeter](https://www.rainmeter.net/) 桌面小组件而设计。
@@ -86,5 +87,5 @@ EggyUI 3.5 **是一个专为 Windows 桌面设计的、非商业性质的美化�
     - 本项目纯属个人兴趣开发，**不收取任何费用**，**不接受商业合作**
     - 所有开发工作均遵守游戏粉丝创作准则，**未使用任何非法获取的游戏资源**
 *	**个人会的：** 
-	-   玩过的游戏：蛋仔派对、逃跑吧少年、我的世界、保卫萝卜4、植物大战僵尸2
+	-   玩过的游戏：蛋仔派对、我的世界、保卫萝卜4、植物大战僵尸2
     -   用过的编程语言：Python、C、C++、C#、VB.NET
