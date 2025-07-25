@@ -6,7 +6,7 @@
 
 > ⚠️ **Important Notes**  
 > 1. EggyUI **is solely a Windows desktop customization pack** and **is not applicable to mobile or other operating systems**.  
-> 2. This project is a fan-creation based on the game "Eggy Party" (蛋仔派对). **Commercial use is strictly prohibited**.  
+> 2. This project is a fan-creation based on the game "Eggy Party". **Commercial use is strictly prohibited**.  
 > 3. **This project shall not be used for any profit-driven purposes**, including but not limited to:  
 >    - Paid distribution or sales  
 >    - Bundling with commercial software  
