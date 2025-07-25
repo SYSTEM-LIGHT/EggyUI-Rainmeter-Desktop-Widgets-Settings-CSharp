@@ -53,7 +53,6 @@
 *   **核心优势：** 通过上述技术革新，EggyUI 3.5实现了：
     - ✅ **兼容性突破**：彻底解决历史遗留问题（如安装后无法配置网络）
     - ⚡ **性能飞跃**：组件响应速度提升40%以上
-![Eggy UI 3.5宣传图](http://i0.hdslb.com/bfs/new_dyn/24cb54b93b1c9ef3ead8ea2d3ae2d2f31591761987.png "Eggy UI 3.5")
 
 ## 🖥️ 本程序用途
 *   **核心功能：** EggyUI-Rainmeter-Desktop-Widgets-Settings 是专门用于 **配置、管理和自定义 EggyUI 主题包所包含的 Rainmeter 桌面小组件** 的设置工具
@@ -69,6 +68,9 @@ EggyUI 3.5 **只是一个专为 Windows 桌面设计的、非商业性质的美�
 - **永久免费**且**禁止一切商业用途**
 - **未使用任何游戏解包素材**，所有内容均为原创重制或合法获取
 - 任何商业使用均违反本项目许可条款
+
+![Eggy UI 3.5宣传图](http://i0.hdslb.com/bfs/new_dyn/24cb54b93b1c9ef3ead8ea2d3ae2d2f31591761987.png "Eggy UI 3.5")
+
 
 ---
 
