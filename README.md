@@ -4,6 +4,8 @@
 ## 🎮 项目简介
 **EggyUI-Rainmeter-Desktop-Widgets-Settings** 是 **EggyUI** 主题包的核心组件之一，专为管理其配套的 [Rainmeter](https://www.rainmeter.net/) 桌面小组件而设计。
 
+**EggyUI Rainmeter小组件皮肤下载链接：** [蓝奏云](https://system-light.lanzoue.com/b00g3hm4nc)（密码:7s82）（请先安装Rainmeter再安装此皮肤）
+
 > ⚠️ **重要说明**  
 > 1. EggyUI **只是一个普通的 Windows 桌面美化包**，**不适用于手机系统或其他操作系统**  
 > 2. 本项目为《蛋仔派对》游戏的二次创作作品，**严格禁止任何商业用途**  
