@@ -62,6 +62,8 @@
 *   **素材来源：** 小组件中使用的所有图形资源均为原创或合法获取，**不含任何游戏解包内容**
 *   **作用范围：** 通过此程序，用户可以轻松调整小组件的外观、位置、功能选项等，打造高度个性化的《蛋仔派对》风格 **Windows 桌面环境**
 
+![EggyUI-Rainmeter-Desktop-Widgets-Settings宣传图](http://i0.hdslb.com/bfs/new_dyn/4de3d06f5b61d92e0e51a2022946fe261591761987.png "EggyUI-Rainmeter-Desktop-Widgets-Settings")
+
 ## 💡 总结
 > ⚠️ **再次强调：我们还是强烈建议用户优先使用原版 Windows 系统，并通过标准方式（如 Rainmeter）应用美化组件。对预装主题的修改版系统（即系统镜像方式）的使用需自行承担潜在的不稳定风险。专为原版系统设计的 EggyUI 3.5 独立安装包正在开发中，敬请期待。**
 
