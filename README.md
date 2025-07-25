@@ -62,7 +62,7 @@
 *   **核心功能：** EggyUI-Rainmeter-Desktop-Widgets-Settings 是专门用于 **配置、管理和自定义 EggyUI 主题包所包含的 Rainmeter 桌面小组件** 的设置工具
 *   **使用条款：** 本程序**仅限个人非商业用途**，禁止商业场景使用
 *   **素材来源：** 小组件中使用的所有图形资源均为原创或合法获取，**不含任何游戏解包内容**
-*   **作用范围：** 通过此程序，用户可以轻松调整小组件的外观、位置、功能选项等，打造高度个性化的《蛋仔派对》风格 **Windows 桌面环境**
+*   **作用范围：** 通过此程序，用户可以轻松调整小组件的外观、~~位置、功能选项等~~，打造高度个性化的《蛋仔派对》风格 **Windows 桌面环境**
 
 ![EggyUI-Rainmeter-Desktop-Widgets-Settings宣传图](http://i0.hdslb.com/bfs/new_dyn/4de3d06f5b61d92e0e51a2022946fe261591761987.png "EggyUI-Rainmeter-Desktop-Widgets-Settings")
 
